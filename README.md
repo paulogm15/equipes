@@ -2,6 +2,13 @@
 
 > Atividade realizada durante o curso de Análise e desenvolvimento de sistemas na disciplina de Introdução a web da faculdade Senac.
 
+- [x] index.html na pasta site
+- [x] index.html com integrantes em um lista não ordenada
+- [x] pagina dos integrantes com lista ordenada com informações sobre a pessoa
+- [x] pasta equipes com arquivos dos integrantes
+- [x] pasta imagens com todas as imagens usadas
+- [ ] estilização completa
+
 A entrega deve ser feita no Github. Informe o link para o site publicado no Github Pages.
 
 Vamos elaborar um site para apresentar os integrantes de uma equipe. Os dados podem ser fictícios ou não.
